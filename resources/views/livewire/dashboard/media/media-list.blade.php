@@ -93,7 +93,7 @@
                     </div>
                 </div>
             @empty
-                <p class="col-span-full text-center text-gray-500">Belum ada media yang diunggah.</p>
+                <p class="col-span-full text-center text-gray-500">No media files have been uploaded yet.</p>
             @endforelse
         </div>
 

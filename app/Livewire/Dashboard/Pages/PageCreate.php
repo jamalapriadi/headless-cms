@@ -19,6 +19,11 @@ class PageCreate extends Component
         'content' => 'required|string|min:10',
     ];
 
+    public function updatePostContent($data)
+    {
+        $this->content = $data['content'];
+    }
+
     public function store()
     {
         $this->validate();
