@@ -88,6 +88,18 @@ composer run dev
 Visit your app at: [http://127.0.0.1:8000](http://127.0.0.1:8000) 
 > **Note:** You can replace `http://127.0.0.1:8000` with your own application URL if running on a different host or port.
 
+---
+
+## 🧑‍💻 Sample User Accounts
+
+Below are sample user credentials you can use to log in:
+
+| Email                | Role          | Password      |
+|----------------------|---------------|---------------|
+| jamal.apriadi@gmail.com    | Administrator | JulyCode2015!      |
+| editor@gmail.com   | Editor        | JulyCode2015!      |
+| author@gmail.com   | Author        | JulyCode2015!      |
+| contributor@gmail.com | Contributor | JulyCode2015!      |
 
 ---
 
