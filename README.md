@@ -68,7 +68,7 @@ php artisan key:generate
 
 ### 7. Run Migrations and Seeders
 ```bash
-php artisan db:seed
+php artisan migrate
 ```
 
 ```bash
